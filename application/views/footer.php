@@ -10,6 +10,7 @@
                 	<div class="uk-container uk-container-center uk-text-center uk-margin-top">
 						ระบบดูแลผู้เรียนและกิจกรรมนักเรียนนักศึกษา<br/>
 						พัฒนาโดยแผนกเทคโนโลยีสารสนเทศ วิทยาลัยเทคนิคชัยภูมิ
+						(MON)
                 	</div>
                 	<br/><br/>
                 </footer>
